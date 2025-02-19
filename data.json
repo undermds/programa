@@ -1,9 +1,1 @@
-{
-    "equipamentos": [
-      { "nome": "Prensa Jundiai 1 - 2", "producao1": "N/A", "producao2": "N/A", "producao3": "N/A" },
-      { "nome": "Prensa Jundiai 3", "producao1": "N/A", "producao2": "N/A", "producao3": "N/A" },
-      { "nome": "Prensa Jundiai 4", "producao1": "N/A", "producao2": "N/A", "producao3": "N/A" },
-      { "nome": "Prensa DEES", "producao1": "N/A", "producao2": "N/A", "producao3": "N/A" }
-    ]
-  }
-  
+{"equipamentos":[{"nome":"Prensa Jundiai 1 - 2","producao1":"asdasda","producao2":"","producao3":""},{"nome":"Prensa Jundiai 3","producao1":"","producao2":"","producao3":""},{"nome":"Prensa Jundiai 4","producao1":"","producao2":"","producao3":""},{"nome":"Prensa DEES","producao1":"","producao2":"","producao3":""}]}
